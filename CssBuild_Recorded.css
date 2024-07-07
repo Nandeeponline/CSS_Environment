@@ -1,0 +1,123 @@
+/* We will build css display different color codes */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+menu {
+    background-color: cadetblue;
+    display: flex;
+    list-style-type: none;
+    /* justify-content:space-around; */
+    min-height: 45px;
+    /* align-items: center; */
+    /* align-items: normal; */
+}
+
+menu li {
+    /* flex-grow: 1; */
+    background-color: darkgoldenrod;
+    display: inline-block;
+    margin: 0 2px 0 2px;
+    padding: 0 0 0 0;
+    border: 1mm ridge rgba(181, 146, 20, 0.6);
+    text-align: center;
+    align-content: center;
+    /* width: fit-content; */
+    /* content: "fit-content"; */
+    /* flex-basis: 100%; */
+}
+
+/* menu li :hover {
+    cursor: pointer;
+} */
+
+#homePageIcon {
+    /* width: fit-content; */
+    margin-right: 20px;
+    margin-left: 5px;
+}

@@ -1,0 +1,25 @@
+h1 {
+    font-size: xx-large;
+    font-weight: 600;
+    display: inline-block;
+    text-align: left;
+    margin-left: 10%;
+    width: 100%;
+    margin-top: 10px;
+    font-family: serif;
+    color:  #ff7300;
+    text-shadow: 0 1px 1px #43240958;
+}
+
+h2 {
+    font-size: x-large;
+    font-weight: 600;
+    display: inline-block;
+    text-align: left;
+    margin-left: 10%;
+    width: 100%;
+    margin-top: 10px;
+    font-family: serif;
+    color:  #5900ff;
+    text-shadow: 0 1px 1px #43240958;
+}
