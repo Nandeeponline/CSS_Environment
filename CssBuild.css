@@ -111,3 +111,23 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+.colorBox {
+	display: inline-block;
+	height: 180px;
+	width: 240px;
+	border: 2px solid blueviolet;
+	border-radius: 5px;
+	background-color: #da3c3c;
+	margin-top: 5px;
+}
+
+.colorBoxContainer {
+	margin: 5px 5px 5px 5px;
+	text-align: center;
+	display: inline-block;
+}
+
+.colorBoxHeader {
+	margin: 2px 0 5px 0;
+}

@@ -4,6 +4,7 @@ h1 {
     display: inline-block;
     text-align: left;
     margin-left: 10%;
+    margin-bottom: 10px;
     width: 100%;
     margin-top: 10px;
     font-family: serif;
@@ -22,4 +23,9 @@ h2 {
     font-family: serif;
     color:  #5900ff;
     text-shadow: 0 1px 1px #43240958;
+}
+
+h3 {
+    font-size: large;
+    font-weight: 500;
 }
